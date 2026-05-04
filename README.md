@@ -1,33 +1,45 @@
 # Keptra
 
-Keptra is the public home for **AutoPhotoImportor**, a practical photo-import workflow built to make moving, sorting, and preparing image libraries faster and more predictable.
+**Import photos faster. Keep every shoot organized. Spend less time sorting files.**
 
-The AutoPhotoImportor source project is planned to become private, so this repository acts as the public landing page for updates, product information, and links for people who want to learn more.
+Keptra is a smarter photo-import workflow for photographers, creators, studios, and anyone managing large image collections. It helps turn messy camera-card dumps and scattered folders into a clean, repeatable library structure.
 
-## AutoPhotoImportor
+## Built For Real Photo Workflows
 
-AutoPhotoImportor is designed for photographers, creators, and teams who need a smoother way to bring photos into an organized workspace.
+Photo imports should not slow down the work that comes after them. Keptra is designed to reduce the manual steps between capturing images and getting them ready for editing, delivery, backup, or archive.
 
-It focuses on:
+Use Keptra to:
 
-- Fast photo intake from local folders, cameras, cards, and import locations.
-- Repeatable organization so new imports land where they belong.
-- Cleaner file naming and structure for long-term photo libraries.
-- A workflow foundation that can grow with tagging, metadata, backups, and automation.
+- Bring new photos into an organized workspace faster.
+- Keep shoots, dates, folders, and file names consistent.
+- Reduce repetitive sorting after every import.
+- Build a cleaner long-term photo library.
+- Prepare image collections for editing, sharing, storage, or client delivery.
 
-## Why Keptra
+## Why People Use Keptra
 
-Keptra is being shaped around useful automation for media-heavy work. AutoPhotoImportor is the first step: a focused tool that reduces manual handling before editing, sharing, archiving, or delivering images.
+Keptra is made for people who care about their photos but do not want to waste time manually managing every import.
 
-## Project Status
+It is especially useful when you:
 
-AutoPhotoImportor is in active development. The implementation repository may move private while this public page remains available for discovery, announcements, and future release information.
+- Import photos regularly from cameras, cards, drives, or local folders.
+- Need a predictable structure for personal, client, or studio libraries.
+- Want fewer duplicate steps across each shoot.
+- Prefer a tidy workflow before editing begins.
+- Need a simple system that can grow with automation, metadata, and backup features.
+
+## What Keptra Helps With
+
+Keptra focuses on the first stage of every photo workflow: getting files into the right place, with the right structure, as quickly as possible.
+
+That means less time cleaning up folder dumps and more time working with the images that matter.
 
 ## Explore More
 
-- Project page: https://github.com/zzm6899/Keptra
-- Repository clone URL: https://github.com/zzm6899/Keptra.git
+Visit the Keptra website to learn more, follow updates, and explore what is coming next:
+
+**https://github.com/zzm6899/Keptra**
 
 ## Contact
 
-For questions, interest, or collaboration, use the GitHub repository page above to follow the project or open a discussion when public discussion features are available.
+For questions, early interest, or collaboration, visit the website above and follow the project.
