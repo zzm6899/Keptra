@@ -1,127 +1,37 @@
 # Keptra
 
-<p align="center">
-  <a href="https://keptra.z2hs.au/">
-    <img src="https://keptra.z2hs.au/assets/demo/real-app-capture.png" alt="Keptra photo culling and import workflow" width="920" />
-  </a>
-</p>
+**Review a shoot. Choose the keepers. Import with confidence.**
 
-<p align="center">
-  <strong>AI-assisted photo culling, import, and keeper selection for Mac and Windows.</strong>
-</p>
+Keptra is a desktop photo culling and import tool for Windows and macOS. Review your shoot before copying, organise the selected files, and use optional backup and transfer verification to check the result.
 
-<p align="center">
-  Cull before import. Copy only the keepers. Verify every card-to-drive transfer.
-</p>
+[Explore Keptra](https://keptra.z2hs.au/) · [Downloads](https://keptra.z2hs.au/download.html) · [Plans and licensing](https://keptra.z2hs.au/#pricing)
 
-<p align="center">
-  Free download. No account needed to start. Pro options and license management live on the Keptra website.
-</p>
+## A clearer path from card to edit
 
-<p align="center">
-  <a href="https://keptra.z2hs.au/"><strong>Explore Keptra</strong></a>
-  &nbsp;|&nbsp;
-  <a href="https://keptra.z2hs.au/download.html"><strong>Download free</strong></a>
-  &nbsp;|&nbsp;
-  <a href="https://keptra.z2hs.au/#pricing"><strong>View pricing</strong></a>
-</p>
-
-<p align="center">
-  <a href="https://keptra.z2hs.au/">
-    <img src="https://img.shields.io/badge/Website-keptra.z2hs.au-37b69f?style=for-the-badge" alt="Keptra website" />
-  </a>
-  <a href="https://keptra.z2hs.au/download.html">
-    <img src="https://img.shields.io/badge/Download-Free-37b69f?style=for-the-badge" alt="Download Keptra free" />
-  </a>
-  <img src="https://img.shields.io/badge/Platforms-macOS%20%7C%20Windows-111820?style=for-the-badge" alt="macOS and Windows" />
-  <img src="https://img.shields.io/badge/Photos-Stay%20Local-111820?style=for-the-badge" alt="Photos stay local" />
-</p>
-
-## Stop Importing The Whole Mess
-
-Keptra is built for photographers and creators who want a cleaner first step after a shoot. Instead of dumping an entire card, sorting later, and hoping the copy worked, Keptra lets you review fast, mark the best frames, skip duplicates, and import into a clean folder structure.
-
-It is the import workflow you use before editing: quick culling, local AI review, duplicate detection, EXIF-aware organization, backup options, and transfer verification in one focused desktop app.
-
-## Why Photographers Choose Keptra
-
-- **Cull before you copy** - Pick, reject, rate, compare, and filter before files hit your archive.
-- **Import only the keepers** - Move the files that matter into predictable date-based or custom folder patterns.
-- **Stay local** - AI review runs on your machine. Your photos do not need to be uploaded to a cloud service.
-- **Trust the transfer** - Duplicate detection, backup destination support, and checksum verification help prevent messy imports.
-- **Work from real sources** - Import from cameras, SD cards, local folders, and FTP / FTPS devices.
-- **Move fast with keys** - Use `P`, `X`, arrows, `1-5`, and focused review views to get through a shoot quickly.
-- **Use it on Mac or Windows** - Built for desktop workflows on macOS and Windows.
-
-## Watch It Work
-
-### Insert A Card, Walk Away
-
-<p>
-  <a href="https://keptra.z2hs.au/download.html">
-    <img src="https://keptra.z2hs.au/assets/demo/auto-import.gif" alt="Keptra auto-import card detection demo" width="820" />
-  </a>
-</p>
-
-Turn on auto-import and Keptra watches for a new card. When one appears, it scans automatically, organizes into date-based folders, checks for duplicates, and can mirror to a backup destination.
-
-### Review Faster With Local AI
-
-<p>
-  <a href="https://keptra.z2hs.au/">
-    <img src="https://keptra.z2hs.au/assets/demo/face-review.gif" alt="Keptra local face review and grouping demo" width="820" />
-  </a>
-</p>
-
-Keptra uses local AI to help surface sharpness, face count, and review signals while you stay in control. It is designed to speed up decisions without sending your images away.
-
-### Compare Bursts Without Losing Time
-
-<p>
-  <a href="https://keptra.z2hs.au/">
-    <img src="https://keptra.z2hs.au/assets/demo/best-of.gif" alt="Keptra burst comparison and best frame selection demo" width="820" />
-  </a>
-</p>
-
-Burst sequences can collapse into a single group, then expand for side-by-side comparison. Pick the strongest frame and move on.
-
-### See Performance And Diagnostics Clearly
-
-<p>
-  <a href="https://keptra.z2hs.au/">
-    <img src="https://keptra.z2hs.au/assets/demo/gpu-diagnostics.gif" alt="Keptra GPU diagnostics demo" width="820" />
-  </a>
-</p>
-
-Keptra shows whether GPU acceleration is active, which provider is being used, and when it falls back to CPU. That makes support and performance tuning easier to understand.
-
-## Built For The First 10 Minutes After A Shoot
-
-Keptra is for the moment when the card is full and the real work is about to start.
-
-| Workflow | What Keptra Helps With |
+| Step | What you can do |
 | --- | --- |
-| Culling | Pick, reject, rate, and filter before import |
-| Importing | Copy selected photos and videos into clean folder patterns |
-| Verification | Checksum verification for original transfers |
-| Duplicates | Skip files that already exist at the destination |
-| Protected files | Surface in-camera protected or read-only files first |
-| Metadata | Read EXIF date, camera, lens, dimensions, ISO, aperture, and shutter |
-| FTP | Mirror and scan from FTP / FTPS cameras or network sources |
-| Handoff | Export useful metadata and review state for the next step in your workflow |
+| **Review** | Browse cards, drives, and folders; pick, reject, rate, and filter photographs with keyboard controls. |
+| **Compare** | Review bursts and similar frames, with local analysis to help assess faces and image quality. |
+| **Organise** | Choose the files to import and preview date-based or custom destination folders. |
+| **Import** | Handle duplicates, copy selected files, and optionally create a backup and verify transfers. |
+| **Hand off** | Keep an import report and export a manifest or Lightroom helper files for the next stage. |
 
-## Download And Explore
+For connected workflows, Keptra also supports FTP sources and automation. Feature access depends on your license.
 
-The best way to understand Keptra is to see the live product page and download the app.
+## Your decisions, your photographs
 
-- Website: <https://keptra.z2hs.au/>
-- Download: <https://keptra.z2hs.au/download.html>
-- Pricing: <https://keptra.z2hs.au/#pricing>
-- Manage license: <https://keptra.z2hs.au/manage-license>
-- Support: <mailto:help@z2hs.au>
+Photo review and analysis run locally. Picks, ratings, and review suggestions leave source files untouched; you decide what to import. Internet access may be used for model downloads, licensing, updates, and online checkout.
 
-## The Pitch
+## Access and licensing
 
-If your photo workflow starts with dragging a full card into a folder and sorting later, Keptra gives that time back. Review first. Import less. Keep the structure clean. Know the transfer worked.
+The free tier supports browsing and manual culling. Pro unlocks importing and the wider workflow through a license key. See the product website for current plans, compatibility, and download options.
 
-**Give your next shoot a clean start: <https://keptra.z2hs.au/>**
+- [Product tour](https://keptra.z2hs.au/#tour)
+- [Download options](https://keptra.z2hs.au/download.html)
+- [Current plans](https://keptra.z2hs.au/#pricing)
+- [Manage an existing license](https://keptra.z2hs.au/manage-license)
+- [Contact support](mailto:help@z2hs.au)
+
+## About this repository
+
+This repository contains only Keptra's public product overview. It does not distribute application source code, license keys, or customer data. Commercial access is governed by the product's licensing terms.
