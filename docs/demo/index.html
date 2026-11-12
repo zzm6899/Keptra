@@ -35,6 +35,7 @@
 
 .site-header nav { width: min(1200px, calc(100% - 80px)); }
 .site-header .nav-menu-toggle { width: 44px; height: 44px; }
+.nav-logo, .site-header .nav-cta { min-height: 44px; }
 
 @keyframes cull-arrive {
   from { opacity: 0; transform: translateY(12px); }
@@ -46,8 +47,10 @@
 .cull-intro > p:not(.cull-platform) { max-width: 32ch; color: var(--cull-muted); font-size: clamp(15px, 1.32vw, 19px); }
 .cull-intro .btn-primary { color: #14261d; background: var(--cull-accent); border-color: var(--cull-accent); }
 .cull-intro .btn-primary:hover { background: #d3f3df; }
-.cull-intro .text-link { border-color: var(--cull-muted); }
+.cull-intro .text-link { display: inline-flex; align-items: center; min-height: 44px; border-color: var(--cull-muted); }
+.cull-intro .text-link:hover { color: var(--cull-accent); border-color: currentColor; }
 .cull-intro .text-link span { font-size: inherit; margin: 0 0 0 4px; }
+.video-frame:focus-within { outline: 3px solid #f4bd7f; outline-offset: 3px; }
 
 .cull-workspace {
   min-width: 0;
@@ -140,6 +143,8 @@
 
 @media (max-width: 600px) {
   .site-header nav { width: calc(100% - 40px); }
+  .video-meta > a { display: inline-flex; align-items: center; min-height: 44px; }
+  .transcript summary, .faq summary { min-height: 44px; padding-block: 10px; }
   .cull-toolbar { padding-inline: 12px; }
   .cull-controls { padding-inline: 10px; }
   .cull-review button { padding-inline: 6px; }
