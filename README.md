@@ -6,6 +6,12 @@ Keptra is a desktop photo culling and import tool for Windows and macOS. Review 
 
 [Explore Keptra](https://keptra.z2hs.au/) · [Downloads](https://keptra.z2hs.au/download.html) · [Plans and licensing](https://keptra.z2hs.au/#pricing)
 
+## Try the browser demo
+
+Download [the standalone demo](docs/demo/index.html) from GitHub and open it in your browser. Review four generated coastal photos, mark picks and rejects, and open the import preview to see where the selected files would go.
+
+Use the on-screen controls or focus the workspace and press **←** / **→** to switch frames, **P** to pick, **X** to reject, and **1–5** to rate. The demo runs offline and does not access or upload your files.
+
 ## A clearer path from card to edit
 
 | Step | What you can do |
@@ -34,4 +40,4 @@ The free tier supports browsing and manual culling. Pro unlocks importing and th
 
 ## About this repository
 
-This repository contains only Keptra's public product overview. It does not distribute application source code, license keys, or customer data. Commercial access is governed by the product's licensing terms.
+This repository contains Keptra’s public product overview and browser demo. The desktop app is available from the product website under Keptra’s licensing terms.
