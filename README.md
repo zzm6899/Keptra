@@ -1,8 +1,6 @@
 # Keptra
 
-**Review a shoot. Choose the keepers. Import with confidence.**
-
-Keptra is a desktop photo culling and import tool for Windows and macOS. Review your shoot before copying, organise the selected files, and use optional backup and transfer verification to check the result.
+Keptra lets you review a shoot before you copy it off the card. The app runs on Windows and macOS. You can organise the photos you pick, make a backup and verify the transfer.
 
 [Explore Keptra](https://keptra.z2hs.au/) · [Downloads](https://keptra.z2hs.au/download.html) · [Plans and licensing](https://keptra.z2hs.au/#pricing)
 
@@ -12,7 +10,7 @@ Download [the standalone demo](docs/demo/index.html) from GitHub and open it in 
 
 Use the on-screen controls or focus the workspace and press **←** / **→** to switch frames, **P** to pick, **X** to reject, and **1–5** to rate. The demo runs offline and does not access or upload your files.
 
-## A clearer path from card to edit
+## From memory card to edit
 
 | Step | What you can do |
 | --- | --- |
@@ -22,15 +20,15 @@ Use the on-screen controls or focus the workspace and press **←** / **→** to
 | **Import** | Handle duplicates, copy selected files, and optionally create a backup and verify transfers. |
 | **Hand off** | Keep an import report and export a manifest or Lightroom helper files for the next stage. |
 
-For connected workflows, Keptra also supports FTP sources and automation. Feature access depends on your license.
+Keptra also supports FTP sources and automation. Feature access depends on your license.
 
-## Your decisions, your photographs
+## Local photo analysis
 
-Photo review and analysis run locally. Picks, ratings, and review suggestions leave source files untouched; you decide what to import. Internet access may be used for model downloads, licensing, updates, and online checkout.
+Photo review and analysis run locally. Picks, ratings and review suggestions leave the source files untouched. You choose which files to import. Keptra may use the internet for model downloads, licensing, updates and checkout.
 
 ## Access and licensing
 
-The free tier supports browsing and manual culling. Pro unlocks importing and the wider workflow through a license key. See the product website for current plans, compatibility, and download options.
+You can browse and cull photos by hand on the free tier. A Pro license key enables importing and the rest of the workflow. See the product website for current plans, compatibility and downloads.
 
 - [Product tour](https://keptra.z2hs.au/#tour)
 - [Download options](https://keptra.z2hs.au/download.html)
